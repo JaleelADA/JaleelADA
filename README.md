@@ -33,7 +33,7 @@ I am highly interested in gaining more experience in the SWE field! 🕺🏽
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="[Linkedin](http://www.linkedin.com/in/jaleelda1)">
+  <a href="http://www.linkedin.com/in/jaleelda1">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
