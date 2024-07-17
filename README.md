@@ -1,4 +1,4 @@
-# JaleelADA
+# Jaleel Drones
 ## Hi there 👋
 
 Rising Sophomore pursuing a Bachelor of Arts in Computer Science @ The University of Michigan. I am a previous Data Science Intern with UChicago DSI. Currently, I am an incoming SWE fellow with Headstarter AI, where I will be working on completing 5 AI projects in the next 5 weeks.
