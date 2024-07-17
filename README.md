@@ -37,7 +37,7 @@ I am highly interested in gaining more experience in the SWE field! 🕺🏽
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-- [Linkedin](https://www.linkedin.com/in/jaleelda1)
+
 ### ⚡ Fun fact
 
 I have a tuxedo cat named Oreo.
