@@ -16,8 +16,8 @@ I am highly interested in gaining more experience in the SWE field! 🕺🏽
 
 ### 🔭 I’m working on
 
-- Taking a startup's current backlog and building it to meet business requirements.
-- Interning @ [Headstarter AI](https://headstarter.co) to build my project building & SWE skills.
+- AIPHAS healthtech project
+- Enrolled in Global Career Accelerator to build my project building & SWE skills.
 
 ### 🌱 I’m learning
 
