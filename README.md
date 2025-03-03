@@ -1,7 +1,7 @@
 # Jaleel Drones
 ## Hi there 👋
 
-I am a Rising Sophomore pursuing a Bachelor of Arts in Computer Science @ The University of Michigan. I am a previous Data Science Intern with UChicago DSI. Currently, I am an incoming scholar at Greenwood Project where I plan further my skills and learn Data Analytics with a focus on FinTech.
+I am a Rising Sophomore pursuing a Bachelor of Arts in Computer Science @ The University of Michigan. I am a previous Data Science Intern with UChicago DSI & Incoming Data Science Fellow at JP Morgan Chase. Currently, I am an incoming scholar at Greenwood Project where I plan further my skills and learn Data Analytics with a focus on FinTech.
 
 I am highly interested in gaining more experience in the SWE field! 🕺🏽
 
