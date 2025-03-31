@@ -3,7 +3,7 @@
 
 I am a Rising Sophomore pursuing a Bachelor of Arts in Computer Science @ The University of Michigan. I am a previous Data Science Intern with UChicago DSI & Incoming Data Science Fellow at JP Morgan Chase. Currently, I am a  scholar at Greenwood Project where I've been furthering my skills and learning Data Analytics with a focus on FinTech. I am also enrolled in the Global Career Accelerator course where I've completed relevant data analysis projects with companies like Intel & The Recording Academy.
 
-I am highly interested in gaining more experience in the SWE field! 🕺🏽
+I am highly interested in gaining more experience in the AI/SWE field! 🕺🏽
 
 **I love working with**
 
