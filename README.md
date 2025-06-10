@@ -16,12 +16,12 @@ I am highly interested in gaining more experience in the AI/SWE field! 🕺🏽
 
 ### 🔭 I’m working on
 
-- Intel Data Analytics
-- Enrolled in Global Career Accelerator to build my project building & SWE skills.
+- Data Science @ JPMC
+- Jaleel.live (New Website!)
 
 ### 🌱 I’m learning
 
-- SQL
+- Data Analysis
 - ML techniques
 
 
